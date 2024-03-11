@@ -1,0 +1,26 @@
+{
+  "name": "ABC",
+  "id": 30068,
+  "commission": 0.0003,
+  "stamp_duty": 0.0005,
+  "transfer_fee": 0.00002,
+  "record": [
+    {
+      "timing": "2024-0205-10",
+      "price": 25.6,
+      "quantity": 200,
+      "sell": [
+        {
+          "timing": "2024-0312-14",
+          "price": 36.36,
+          "quantity": 100
+        }
+        {
+          "timing": "2024-0312-14",
+          "price": 36.36,
+          "quantity": 100
+        }
+      ]
+    }
+  ]
+}
